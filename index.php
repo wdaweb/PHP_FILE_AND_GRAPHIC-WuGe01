@@ -6,6 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>PHP的檔案處理</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./plugins/bootstrap.css">
+    <script src="./plugins/jquery-3.5.1.js"></script>
+    <script src="./plugins/bootstrap.bundle.min.js"></script>
 </head>
 <body>
 <a href="upload.php"><div class="types">表單檔案上傳</div></a>

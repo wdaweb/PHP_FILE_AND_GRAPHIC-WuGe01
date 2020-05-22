@@ -16,6 +16,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>檔案管理功能</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./plugins/bootstrap.css">
+    <script src="./plugins/jquery-3.5.1.js"></script>
+    <script src="./plugins/bootstrap.bundle.min.js"></script>
 </head>
 <body>
 <h1 class="header">檔案管理練習</h1>

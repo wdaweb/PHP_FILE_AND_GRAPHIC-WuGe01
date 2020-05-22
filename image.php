@@ -19,6 +19,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>文字檔案匯入</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./plugins/bootstrap.css">
+    <script src="./plugins/jquery-3.5.1.js"></script>
+    <script src="./plugins/bootstrap.bundle.min.js"></script>
 </head>
 <body>
 <h1 class="header">圖形處理練習</h1>
